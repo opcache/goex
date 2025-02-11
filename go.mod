@@ -1,6 +1,6 @@
-module github.com/nntaoli-project/goex/v2
+module github.com/opcache/goex/v2
 
-go 1.18
+go 1.21.1
 
 require (
 	github.com/buger/jsonparser v1.1.1
